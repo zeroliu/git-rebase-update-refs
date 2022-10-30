@@ -1,2 +1,3 @@
 Hello world
 forget to say good bye
+something new happens
